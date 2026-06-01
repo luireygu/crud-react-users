@@ -1,0 +1,7 @@
+Al no incluir el node_modules ejecutar en la consola:
+
+## Instalación
+npm install
+
+## Ejecutar
+npm run dev
