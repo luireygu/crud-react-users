@@ -26,6 +26,7 @@ Instalar dependencias:
 npm install
 
 Nota: no se adjunta el node_modules IMPORTANTE!!!
+
 Autor
 
 Luis Carlos Reyes Guerrero
